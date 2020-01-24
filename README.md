@@ -1,4 +1,4 @@
-# cypress-bdd-automation
+# Cypress-bdd-automation
 
 Iframe issue
 https://github.com/cypress-io/cypress/issues/969
